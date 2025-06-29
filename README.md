@@ -9,7 +9,4 @@ I am a passionate CS student at Kmutt, driven by a curiosity for technology and 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Zersix225&theme=onedark)](https://github.com/Zersix225/github-profile-trophy)
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
